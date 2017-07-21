@@ -1,5 +1,5 @@
 # JustEnoughButtons Save file for SharkLaser, 1b19d4bd-a739-4050-b679-cae771d56875
-# Created Thu Jul 20 15:43:34 CDT 2017
+# Created Fri Jul 21 09:42:52 CDT 2017
 # WARNING: Modifying this file might result in crashes!
 MainInv:{id:"armorplus:compressed_obsidian",Count:1b,Damage:0s}
 MainInv:{id:"minecraft:air",Count:1b,Damage:0s}
@@ -41,6 +41,7 @@ ArmoInv:{id:"minecraft:air",Count:1b,Damage:0s}
 ArmoInv:{id:"minecraft:air",Count:1b,Damage:0s}
 ArmoInv:{id:"minecraft:air",Count:1b,Damage:0s}
 ArmoInv:{id:"minecraft:air",Count:1b,Damage:0s}
+IconSta:{id:"minecraft:air",Count:0b,Damage:0s}
 OffHand:{id:"minecraft:air",Count:1b,Damage:0s}
 END SAVE
 MainInv:{id:"armorplus:compressed_obsidian",Count:1b,Damage:0s}
@@ -83,6 +84,7 @@ ArmoInv:{id:"minecraft:air",Count:1b,Damage:0s}
 ArmoInv:{id:"minecraft:air",Count:1b,Damage:0s}
 ArmoInv:{id:"minecraft:air",Count:1b,Damage:0s}
 ArmoInv:{id:"minecraft:air",Count:1b,Damage:0s}
+IconSta:{id:"minecraft:air",Count:0b,Damage:0s}
 OffHand:{id:"minecraft:air",Count:1b,Damage:0s}
 END SAVE
 MainInv:{id:"armorplus:compressed_obsidian",Count:1b,Damage:0s}
@@ -125,6 +127,7 @@ ArmoInv:{id:"minecraft:air",Count:1b,Damage:0s}
 ArmoInv:{id:"minecraft:air",Count:1b,Damage:0s}
 ArmoInv:{id:"minecraft:air",Count:1b,Damage:0s}
 ArmoInv:{id:"minecraft:air",Count:1b,Damage:0s}
+IconSta:{id:"minecraft:air",Count:0b,Damage:0s}
 OffHand:{id:"minecraft:air",Count:1b,Damage:0s}
 END SAVE
 EMPTY SAVE

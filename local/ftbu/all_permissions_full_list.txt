@@ -1,4 +1,4 @@
-11428 nodes in total
+11419 nodes in total
 
 block.tap: ALL
 block.wrench: ALL
@@ -2910,7 +2910,6 @@ ftbu.claims.block.edit.securitycraft.security_camera: OP
 ftbu.claims.block.edit.securitycraft.stone_mine: OP
 ftbu.claims.block.edit.securitycraft.track_mine: OP
 ftbu.claims.block.edit.securitycraft.username_logger: OP
-ftbu.claims.block.edit.simplecorn.corn: OP
 ftbu.claims.block.edit.simplevoidworld.portal: OP
 ftbu.claims.block.edit.simplyconveyors.asphault: OP
 ftbu.claims.block.edit.simplyconveyors.concrete: OP
@@ -5885,7 +5884,6 @@ ftbu.claims.block.interact.securitycraft.security_camera: OP
 ftbu.claims.block.interact.securitycraft.stone_mine: OP
 ftbu.claims.block.interact.securitycraft.track_mine: OP
 ftbu.claims.block.interact.securitycraft.username_logger: OP
-ftbu.claims.block.interact.simplecorn.corn: OP
 ftbu.claims.block.interact.simplevoidworld.portal: OP
 ftbu.claims.block.interact.simplyconveyors.asphault: OP
 ftbu.claims.block.interact.simplyconveyors.concrete: OP
@@ -11046,13 +11044,6 @@ ftbu.claims.item.securitycraft.universal_owner_changer: ALL
 ftbu.claims.item.securitycraft.username_logger: ALL
 ftbu.claims.item.securitycraft.whitelist_module: ALL
 ftbu.claims.item.securitycraft.wire_cutters: ALL
-ftbu.claims.item.simplecorn.chickencornchowder: ALL
-ftbu.claims.item.simplecorn.cornchowder: ALL
-ftbu.claims.item.simplecorn.corncob: ALL
-ftbu.claims.item.simplecorn.kernels: ALL
-ftbu.claims.item.simplecorn.popfirework: ALL
-ftbu.claims.item.simplecorn.poppedcorn: ALL
-ftbu.claims.item.simplecorn.roastedcorn: ALL
 ftbu.claims.item.simplevoidworld.portal: ALL
 ftbu.claims.item.simplyconveyors.asphault: ALL
 ftbu.claims.item.simplyconveyors.black_leather: ALL
