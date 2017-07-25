@@ -45,3 +45,7 @@ config/jei/lookupHistory\.zip
 config/jei/tooltipCache\.zip
 
 local/client_config.json
+
+config/InvTweaks\.cfg
+
+hs_err_pid*.log
