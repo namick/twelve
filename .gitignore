@@ -47,3 +47,9 @@ config/jei/tooltipCache\.zip
 config/InvTweaks\.cfg
 
 hs_err_pid*.log
+
+config/MouseTweaks\.cfg
+
+config/jei/worldSettings\.cfg
+
+config/splash\.properties
