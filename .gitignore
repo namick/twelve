@@ -57,3 +57,7 @@ config/MouseTweaks\.cfg
 config/jei/worldSettings\.cfg
 
 config/splash\.properties
+
+local/ftbu/all_permissions_full_list\.txt
+
+config/chiselsandbits_clipboard\.cfg
