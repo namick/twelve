@@ -46,7 +46,7 @@ config/jei/tooltipCache\.zip
 
 config/jei/jei\.cfg
 
-local/client_config.json
+local/
 
 config/InvTweaks\.cfg
 
