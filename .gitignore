@@ -30,8 +30,6 @@ crash-reports/
 
 config\.tmp/
 
-minecraftinstance\.json
-
 servers.dat
 
 screenshots/
