@@ -67,3 +67,5 @@ config/chiselsandbits_clipboard\.cfg
 local/ftbu/all_permissions\.html
 
 generated/
+
+config/AppliedEnergistics2/VersionChecker.cfg
